@@ -1,0 +1,5 @@
+Requirements
+
+Size of the board should be scalable.
+There are standard game rules & should be further extendible.
+There can be game setup strategy like Random setup, Custom set up, Standard setup etc.
